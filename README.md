@@ -1,5 +1,5 @@
 <h1 align="center">Hey there ✌🏽, Dannie here</h1>
-<h3 align="center">A passionate frontend developer with a background with visual storytelling. I have developed a creative eye and strong sense of user experience,channeling this skill to building beautiful and intuitive user interfaces.</h3>
+<h2 align="center">A passionate frontend developer with a background with visual storytelling. I have developed a creative eye and strong sense of user experience,channeling this skill to building beautiful and intuitive user interfaces.</h2>
 
 - 🌱 I’m currently learning **Mobile development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cosmasdaniella@gmail.com**
 
-- 📄 Know about my experiences [PDF](https://drive.google.com/file/d/1e_IoGH-_v8aOceCobq1rRnkofV966Iv5/view?usp=share_link)
+- 📄 Know about my experiences [My Resumé](https://drive.google.com/file/d/1e_IoGH-_v8aOceCobq1rRnkofV966Iv5/view?usp=share_link)
 
 - ⚡ Fun fact **I am a food photographer, love anime and play the guitar**
 
