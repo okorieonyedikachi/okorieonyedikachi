@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cosmasdaniella@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e_IoGH-_v8aOceCobq1rRnkofV966Iv5/view?usp=share_link](https://drive.google.com/file/d/1e_IoGH-_v8aOceCobq1rRnkofV966Iv5/view?usp=share_link)
+- 📄 Know about my experiences [PDF](https://drive.google.com/file/d/1e_IoGH-_v8aOceCobq1rRnkofV966Iv5/view?usp=share_link)
 
 - ⚡ Fun fact **I am a food photographer, love anime and play the guitar**
 
