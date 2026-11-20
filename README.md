@@ -1,19 +1,19 @@
 <h1 align="center">Hey there ✌🏽, Dannie here</h1>
 <h2 align="center">A passionate frontend developer with a background with visual storytelling. I have developed a creative eye and strong sense of user experience,channeling this skill to building beautiful and intuitive user interfaces.</h2>
 
-- 🌱 I’m currently learning **Mobile development**
+- 🌱 Currently leveling up in DevOps: automating deployments, containerizing apps, and building CI/CD pipelines that ship with confidence.
 
 - 👯 I’m open to opportunities in **open source projects, SAAS, Creative companies, agencies and startups**
 
 - 📝 I regularly write articles on [https://medium.com/@cosmasdaniella](https://medium.com/@cosmasdaniella)
 
-- 💬 Ask me about **ReactJs, NextJs, ReactNative**
+- 💬 Ask me about **ReactJs, NextJs, ReactNative: UI, performance, and cross-platform apps.**
 
 - 📫 How to reach me **cosmasdaniella@gmail.com**
 
-- 📄 Know about my experiences [My Resumé](https://drive.google.com/file/d/1e_IoGH-_v8aOceCobq1rRnkofV966Iv5/view?usp=share_link)
+- 📄 Know about my experiences [Resumé provided on request]
 
-- ⚡ Fun fact **I am a food photographer, love anime and play the guitar**
+- ⚡ Fun fact **I love anime and play the guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okorieonyedikachi&show_icons=true&locale=en&layout=compact" alt="okorieonyedikachi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okorieonyedikachi&" alt="okorieonyedikachi" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okorieonyedikachi&" alt="okorieonyedikachi" /></p> -->
